@@ -7,7 +7,7 @@ testing_1.describe('Book List', function () {
         bookList = new book_list_component_1.BookListComponent();
     });
     testing_1.it('should contain two example books', function () {
-        testing_1.expect(bookList.books.lenght).toEqual(2);
+        testing_1.expect(bookList.books.length).toEqual(2);
     });
 });
 //# sourceMappingURL=book-list.component.spec.js.map
