@@ -1,35 +1,35 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 1e933ae2836795c7d27f23bad1e8c2d08222f8d6
-# sw.file.hash: 9e27270431dd0e36213a0a0d1aafbd1faa409265
+# sw.version: 386250d13837ad580b43659d19576692252afcc2
+# sw.file.hash: a859b942f1079cc34dc727265edefae5bbc52a9f
 /app.js
-# sw.file.hash: a694ddf1b9e159301ce22afb9ec5f28504524dcb
+# sw.file.hash: 44a12ccf8e84bb3c09b18e6d7244d7a808d3b0b5
 /app.js.map
 # sw.file.hash: 0bd31ae8410f3295f308c5fc6d24ec7c60b750b8
 /app/app.ts.snippet
 # sw.file.hash: 104e90532ead17518a0dfae2862d06d21d18812b
 /app/book-list/book-list.component.html
-# sw.file.hash: 60939b91a883862b73f743876d7b7b885aaeaeeb
+# sw.file.hash: 96256c2465d3380a7c28fb2926b82e0d9325a293
 /app/book-list/book-list.component.js
-# sw.file.hash: 104844b7cc5c4574d61b4df6069cb14739245915
+# sw.file.hash: 9a2633f6e0bd6fff201a6658f104d41de2e2a71b
 /app/book-list/book-list.component.js.map
-# sw.file.hash: c092743ed3c837edee15673f9fda99a5cca9bd8c
+# sw.file.hash: b4ae5828c2e6844ab1f281df95f980fb44396eb5
 /app/book-list/book-list.component.spec.js
-# sw.file.hash: 0838b4418e8befbd5fd1c9c1eaf76b45113236b1
+# sw.file.hash: 7cccdb708503d6b84dba4237d8a2e8ff264e05be
 /app/book-list/book-list.component.spec.js.map
-# sw.file.hash: ad0c27a6ff03c1a40506e316f398ca3806442e99
+# sw.file.hash: eebf3a0167d742e9da89cf686d246b1cfaf0cad9
 /app/book-monkey.js
-# sw.file.hash: b7af77e2cc50e789874098369a5584cae558645a
+# sw.file.hash: c2a3625f8ff9476bc0c02cd992daf25a8b58443c
 /app/book-monkey.js.map
 # sw.file.hash: 069df8f8a9d9817f05e2b111a863f533129a458f
 /app/book-monkey.ts.snippet
-# sw.file.hash: f294c81d0629caea277b0a073a992de7dbe53f2a
+# sw.file.hash: 0221815b10d7b7d027e812b59784c6f8f0e079bf
 /app/domain/book.js
-# sw.file.hash: 3098f00b7eac968ba6a017c7520f9d15da906d06
+# sw.file.hash: 0b3d0cd9facd3f76b4e910d968915497f4ea1434
 /app/domain/book.js.map
-# sw.file.hash: fb8f417d9e7565256d9ea3d3f8536cf69110678f
+# sw.file.hash: bdb0e6658c7d0fcb322366e4d7b24a514156d90b
 /app/domain/thumbnail.js
-# sw.file.hash: aa598f799f737d739b4f579eeec4c8ca70bf7e26
+# sw.file.hash: 08b392807603e228959df1c01d8b70d702bb1265
 /app/domain/thumbnail.js.map
 # sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
 /favicon.ico
@@ -37,7 +37,7 @@ CACHE MANIFEST
 /forkme_light_background.png
 # sw.file.hash: 0a965fdf6451f001a09e5898ede710efcda83265
 /index.html
-# sw.file.hash: 866e0d442ab28a3f6037bbbf3b98e84afc60d1a0
+# sw.file.hash: e5e036b749a151842a579c1f964e7e57e9abd09d
 /tsconfig.json
 # sw.file.hash: be771bd0a4170c04abff753212def2a2376a408e
 /vendor/angular2/bundles/angular2-polyfills.js
