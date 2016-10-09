@@ -46738,7 +46738,7 @@ metadata.exp({metadata: function metadata(metadataKey, metadataValue){
 /* 532 */
 /***/ function(module, exports) {
 
-module.exports = "<div class=\"ui middle aligned selection divided list\">\n  <a *ngFor=\"let book of books\" class=\"item\">\n    <img class=\"ui tiny image\" [src]=\"book?.thumbnails && book?.thumbnails[0]?.url\">\n    <div class=\"content\">\n      <div class=\"header\">{{ book.title }}</div>\n      <div class=\"description\"> {{ book.subtitle }} </div>\n      <div class=\"metadata\">\n        <span *ngFor=\"let author of book.authors; let l=last\">\n          {{ author }}<span *ngIf=\"!l\">, </span>\n        </span>\n      </div>\n      <div class=\"extra\">ISBN {{ book.isbn }}</div>\n    </div>\n  </a>\n</div>\n";
+module.exports = "<div class=\"ui middle aligned selection divided list\">\n  <a *ngFor=\"let book of books\" class=\"item\">\n    <img class=\"ui tiny image\"\n     *ngIf=\"book.thumbnails != undefined\"\n     [src]=\"book.thumbnails[0].url\">\n    <div class=\"content\">\n      <div class=\"header\">{{ book.title }}</div>\n      <div class=\"description\"> {{ book.subtitle }} </div>\n      <div class=\"metadata\">\n        <span *ngFor=\"let author of book.authors; let l=last\">\n          {{ author }}<span *ngIf=\"!l\">, </span>\n        </span>\n      </div>\n      <div class=\"extra\">ISBN {{ book.isbn }}</div>\n    </div>\n  </a>\n</div>\n";
 
 /***/ },
 /* 533 */
