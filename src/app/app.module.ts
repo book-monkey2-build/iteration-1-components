@@ -12,7 +12,6 @@ import { BookListComponent } from './book-list/book-list.component';
   imports: [
     BrowserModule
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
